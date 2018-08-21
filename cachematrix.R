@@ -40,7 +40,7 @@ cacheSolve <- function(x, ...)
 
 ## Code to test...
 
-# m <- matrix(c(1,2,3,4),2,2)
+# m <- matrix(c(1,2,3,4,5,6,7,8,9),3,3)
 # cm <- makeCacheMatrix(m)
 # cacheSolve(cm)
 
